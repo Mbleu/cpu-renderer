@@ -1,0 +1,1 @@
+A simple CPU-based renderer in C++ capable of loading, displaying, and manipulating 3D objects. I implemented my own matrix, transformation, and coordinate classes, along with a rasteriser and an OBJ file parser.
